@@ -10,6 +10,5 @@
 | 06   | Student ETL Dashboard           | Data Engineering / Analytics     | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/HEMANTH-KARUMANCHI/Student_ETL_Dashboard) |
 | 07   | Student Score Prediction        | Machine Learning / Regression    | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/HEMANTH-KARUMANCHI/Student-Score-Prediction) |
 | 08   | Ecommerce Data Analysis         | Data Analysis / Visualization    | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/HEMANTH-KARUMANCHI/Ecommerce-Data-Analysis) |
-| 09   | Ecommerce Web Application       | Web Development / Backend        | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/HEMANTH-KARUMANCHI/Ecommerce-web) |
-| 10   | Cats vs Dogs Classification     | Deep Learning / Computer Vision  | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/HEMANTH-KARUMANCHI/Cats-Dogs) |
-| 11   | Iris Classification             | Machine Learning / Basics        | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/HEMANTH-KARUMANCHI/IRIS_Classification) |
+| 09   | Cats vs Dogs Classification     | Deep Learning / Computer Vision  | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/HEMANTH-KARUMANCHI/Cats-Dogs) |
+| 10   | Iris Classification             | Machine Learning / Basics        | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/HEMANTH-KARUMANCHI/IRIS_Classification) |
