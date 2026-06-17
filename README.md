@@ -2,7 +2,7 @@
 
 | S No | Project Name                    | Domain / Category                | Repository   									  |
 |------|---------------------------------|----------------------------------|-------------------------------------------------------------------------------------|
-| 01   | Ai Resume & Interview Copilot   | GenAI & NLP                      | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/HEMANTH-KARUMANCHI/AI-Resume-Interview-Copilot) |
+| 01   | AI Resume & Interview Copilot   | GenAI & NLP                      | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/HEMANTH-KARUMANCHI/AI-Resume-Interview-Copilot) |
 | 02   | AI Career Advisor Chatbot       | Gen AI / LLM API		              | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/HEMANTH-KARUMANCHI/ai-career-advisor-chatbot) |
 | 03   | Smart Helmet Enforcement System | Computer Vision(YOLOv8)		      | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/HEMANTH-KARUMANCHI/Smart-Helmet-Enforcement-System) |
 | 04   | Brain Tumor Classification      | Deep Learning / Healthcare 		  | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/HEMANTH-KARUMANCHI/Brain_Tumor_Classification) |
